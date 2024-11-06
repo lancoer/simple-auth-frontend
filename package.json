@@ -52,7 +52,7 @@
     "eslint-plugin-standard": "^5.0.0",
     "eslint-plugin-tailwindcss": "^3.8.3",
     "typescript": "^5.0.2",
-    "vite": "^4.4.5",
+    "vite": "^4.5.5",
     "vite-plugin-node-polyfills": "^0.22.0"
   }
 }
